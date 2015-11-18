@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "cm",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-12.1"  
+  },
+  {
+    "remote": "cm",
+    "repository": "android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "revision": "cm-12.1"  
+  },
+  {
+    "remote": "TeamBliss-Devices",
+    "repository": "android_kernel_samsung_jflte",
+    "target_path": "kernel/samsung/jflte",
+    "revision": "lp5.1-testing"
+  }
+]
